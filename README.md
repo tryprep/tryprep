@@ -18,8 +18,7 @@ My work bridges the gap between molecular biology and bioinformatics to understa
 ### 🚀 Current Projects
 
 *   **[FAPESP Thematic Project]** Investigating the contribution of DNA replication to the genetic variability of *Trypanosoma cruzi*.
-*   **[CeVIVAS]** Coordination of genomic surveillance for respiratory and emerging viruses in the State of São Paulo.
-*   **[Bioinformatics Pipelines]** Development of automated tools for viral identification and variant monitoring (e.g., VIPER pipeline).
+*   **[Bioinformatics Pipelines]** Development of automated pipelines to omic analyses.
 
 ---
 
